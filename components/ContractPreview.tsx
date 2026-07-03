@@ -84,10 +84,10 @@ export default function ContractPreview({ fields, locale }: Props) {
         opacity,
         transition: 'opacity 200ms ease',
       }}
-      className="px-12 py-10 max-w-[680px] mx-auto"
+      className="px-12 py-4 max-w-[680px] mx-auto"
     >
       {/* ── Contract header block ────────────────────────────────────────── */}
-      <div className="bg-[#111] text-white px-8 py-6 rounded-[4px] mb-6">
+      <div className="bg-[#111] text-white px-8 py-6 rounded-[4px] mb-3">
         <p className="text-[15px] font-bold text-center uppercase tracking-[1px]">
           {c.title}
         </p>
@@ -96,7 +96,7 @@ export default function ContractPreview({ fields, locale }: Props) {
       </div>
 
       {/* ── Place / date ─────────────────────────────────────────────────── */}
-      <p className="text-right italic text-[11px] text-[#555] mb-6">{c.place}</p>
+      <p className="text-right italic text-[11px] text-[#555] mb-3">{c.place}</p>
 
       {/* ── PARTIES ──────────────────────────────────────────────────────── */}
       <SectionTitle>{locale === 'es' ? 'Reunidas las partes' : 'The parties'}</SectionTitle>

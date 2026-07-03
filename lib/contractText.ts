@@ -16,7 +16,7 @@ export function getContractText(fields: ContractFields, locale: 'es' | 'en'): Co
     return {
       title: 'TEMPORARY TRANSFER OF GAMING FREEDOM AGREEMENT',
       subtitle: 'Official Document · Grand Theft Auto VI Edition',
-      place: `Madrid, ${date}`,
+      place: `a ${date}`,
       parties: {
         cedente: {
           label: 'The Transferring Party',
@@ -67,7 +67,7 @@ export function getContractText(fields: ContractFields, locale: 'es' | 'en'): Co
   return {
     title: 'CONTRATO DE CESIÓN TEMPORAL DE LIBERTAD LÚDICA',
     subtitle: 'Documento Oficial · Edición Grand Theft Auto VI',
-    place: `Madrid, a ${date}`,
+    place: `a ${date}`,
     parties: {
       cedente: {
         label: 'La Parte Cedente',
