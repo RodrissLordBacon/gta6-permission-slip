@@ -1,0 +1,16 @@
+{
+  "common": {
+    "title": "Permiso Oficial de Juego",
+    "subtitle": "Grand Theft Auto VI · 19 Noviembre 2026",
+    "footer": "Documento sin validez legal · For entertainment purposes only"
+  },
+  "form": {
+    "yourName": "Tu nombre",
+    "yourNamePlaceholder": "Ej: Juan García",
+    "otherName": "Nombre de quien autoriza",
+    "otherNamePlaceholder": "Ej: María García",
+    "relation": "Relación",
+    "days": "Días de validez",
+    "submit": "Generar contrato"
+  }
+}

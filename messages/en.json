@@ -1,0 +1,16 @@
+{
+  "common": {
+    "title": "Official Gaming Permit",
+    "subtitle": "Grand Theft Auto VI · November 19, 2026",
+    "footer": "Documento sin validez legal · For entertainment purposes only"
+  },
+  "form": {
+    "yourName": "Your name",
+    "yourNamePlaceholder": "E.g.: John Smith",
+    "otherName": "Authorizer's name",
+    "otherNamePlaceholder": "E.g.: Mary Smith",
+    "relation": "Relation",
+    "days": "Valid for (days)",
+    "submit": "Generate contract"
+  }
+}
